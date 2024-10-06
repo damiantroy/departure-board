@@ -1,0 +1,8 @@
+route_type = 0
+stop_id = 9999
+direction_id = 0
+timezone = "Australia/Melbourne"
+
+base_url = "https://timetableapi.ptv.vic.gov.au"
+dev_id = "2"
+api_key = "7car2d2b-7527-14e1-8975-06cf1059afe0"
